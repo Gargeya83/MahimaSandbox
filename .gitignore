@@ -14,3 +14,8 @@ models/
 OllamaModels/ 
 .npm-cache/ 
 .pip-cache/ 
+miniconda/ 
+models/ 
+OllamaModels/ 
+.npm-cache/ 
+.pip-cache/ 

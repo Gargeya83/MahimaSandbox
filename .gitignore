@@ -1,0 +1,11 @@
+target/  
+node_modules/  
+.env  
+MahimaAI/src-tauri/target/  
+MahimaAI/core/dist/ 
+miniconda/ 
+miniconda/ 
+models/ 
+OllamaModels/ 
+.npm-cache/ 
+.pip-cache/ 
